@@ -1,0 +1,378 @@
+body, html {
+    max-width: 100%;
+}
+html {
+    box-sizing: border-box;
+   
+   
+}
+body {
+    margin: 0;
+    font-family: Nunito Sans,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #484848;
+    text-align: left;
+    background-color: #fff;
+}
+/* .container__3hIWBaJxrnThcgruAeqeI3 */
+.container{
+    background-color: #fff;
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,.1);
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    z-index: 4;
+    
+
+}
+.contentWrapper {
+    width: 100%;
+    margin: 0 auto;
+}
+.contentWrapper {
+    width: 100%;
+    margin: 0 auto;
+}
+.contentWrapper, .wrapper {
+    display: flex;
+    align-items: center;
+}
+
+.wrapper {
+    height: 100%;
+    z-index: 14;
+}
+
+
+
+
+
+.contentContainer {
+    padding-left: 3rem;
+    padding-right: 3rem;
+}
+.contentContainer {
+    padding-left: 3rem;
+    padding-right: 3rem;
+}
+.contentContainer{
+    height: 100%;
+    /* padding-left: 1rem;
+    padding-right: 1rem; */
+    max-width: calc(1440px + 12rem);
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+.appBar {
+    padding: .65rem 0;
+}
+
+
+.section {
+    display: flex;
+    align-items: center;
+    height: 100%;
+    z-index: 1;
+}
+
+
+
+.headerTab {
+    margin: 0 .5rem;
+}
+.headerList {
+    display: flex;
+    margin: 0;
+    padding: 0;
+    align-items: center;
+}
+
+
+.btn-brand-dark-blue {
+    color: #141c3a;
+    background-color: initial;
+}
+.btn-brand-dark-blue {
+    color: #141c3a;
+    background-color: initial;
+}
+
+
+.logo {
+    margin-left: -2rem;
+    display: inline-block;
+}
+.basicBtn {
+    /* display: inline-block; */
+    text-align: center;
+    text-decoration-line: none;
+    text-decoration-style: initial;
+    text-decoration-color: initial;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    font-family: inherit;
+    font: inherit;
+    /* padding: 0; */
+    margin: 0;
+    /* border: none; */
+    background: none;
+    /* color: inherit; */
+    /* line-height: normal; */
+}
+.btn {
+    /* display: inline-flex; */
+    justify-content: center;
+    font-weight: 700;
+    -webkit-font-smoothing: antialiased;
+    /* -moz-osx-font-smoothing: grayscale; */
+    border: 1px solid transparent;
+    border-radius: 2px;
+    /* -webkit-user-select: none; */
+    -ms-user-select: none;
+    user-select: none;
+    padding-top: 0.375rem;
+    padding-right: 1rem;
+    padding-bottom: 0.375rem;
+    padding-left: 1rem;
+    /* padding: .375rem 1rem; */
+    font-size: 1rem;
+    line-height: 1.5;
+    /* min-width: 8rem; */
+    transition: all .1s ease-in-out;
+}
+.plainNavLink {
+    font-weight: 400;
+    min-width: 0;
+    padding: .1rem;
+}
+
+.sectionRight {
+    justify-content: flex-end;
+    flex: 1 1;
+}
+
+.loginButton {
+    margin-left: 0;
+    min-width: 0;
+}
+.navLink {
+    display: block;
+}
+.btn-brand-purple {
+    color: #fff;
+   
+    background-color: #6400e4;
+    border-color: transparent;
+}
+
+
+.container_body {
+    display: flex;
+}
+
+
+
+.collageContainer {
+    min-height: 44.6875rem;
+}
+.collageContainer{
+    display: block;
+}
+.collageContainer{
+    position: relative;
+    flex-basis: 50%;
+    margin-right: 5%;
+    margin-top: 2rem;
+    /* display: none; */
+}
+
+
+.formContainer__2{
+    padding-top: 4rem;
+    padding-right: 2rem;
+    padding-bottom: 2rem;
+    padding-left: 4rem;
+    margin-left: 2rem;
+    width: auto;
+}
+.formContainer__1 {
+    max-width: 96vw;
+    width: 22rem;
+}
+
+
+.main {
+    flex-grow: 1;
+    font-size: 1.125rem;
+    
+}
+.formContents {
+    max-width: 22rem;
+}
+.formHeader{
+    font-size: 1.4rem;
+    
+}
+
+h1, h2 {
+    font-family: Regular Patch,Regular Bold,Nunito Sans,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;
+}
+
+
+
+fieldset {
+    min-width: 0;
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+
+
+.btnContainer {
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 1rem;
+}
+.btnContainerItem {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-grow: 1;
+    flex-shrink: 1;
+    flex-basis: auto;
+}
+/* boxShadow */
+.btn-brand-red:hover {
+    box-shadow: 0 2px 4px rgba(0,0,0,.3);
+}
+
+
+.socialAuthButton {
+    align-items: center;
+    background-color: #fff;
+    border: 2px solid #f6f5fa;
+    color: #4b4b4d;
+    display: flex;
+    height: 100%;
+    justify-content: center;
+    margin-bottom: .5rem;
+    min-width: 100%;
+    padding: .5rem 1rem;
+    text-align: left;
+    transition: box-shadow .3s;
+}
+
+.icon {
+    
+    
+    width: 1.5rem;
+}
+
+img {
+    vertical-align: middle;
+    border-style: none;
+}
+
+/*Submit Button  */
+.submitButton {
+    width: 100%;
+    margin-bottom: 1rem;
+}
+.large {
+    padding: .75rem 1.25rem;
+    font-size: 1.25rem;
+    line-height: 1.33333;
+    min-width: 10rem;
+}
+/* ----------------------- */
+
+/* Or Use Another Account */
+
+.heading {
+    /* font-family: Nunito Sans; */
+    font-weight: 700;
+    font-size: 1rem;
+    margin-bottom: 1rem;
+}
+
+/* ------------------------------ */
+
+/* Terms and conditions */
+.tos a {
+    color: #6400e4!important;
+    font-weight: 700;
+    text-decoration: underline;
+    font-size: .88rem;
+}
+/* ------------------------------ */
+
+
+.formGroup__2 input {
+    margin-top: .4rem;
+}
+.Input {
+    font-size: 1rem;
+    text-indent: .8rem;
+    padding: .8rem 0;
+    outline: none;
+    width: 100%;
+    margin-bottom:10px;
+    border: 1px solid #dddce0;
+    border-radius: 2px;
+    transition: border-color .15s;
+    font-weight: 400;
+    box-sizing: border-box;
+}
+
+
+
+
+/* Email Password margin */
+.formGroup__2 label {
+    font-size: .9rem!important;
+    display: inline-block;
+    margin-right: .4rem;
+    
+    margin-bottom: 10px;
+}
+.FormGroupLabel {
+   
+    font-weight: 700;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* 
+
+@media only screen and (min-width: 48rem){
+.formContainer__2 {
+    padding: 4rem 2rem 2rem;
+    width: auto;
+}
+}
+
+@media only screen and (min-width: 48rem){
+.contentContainer {
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+}
+@media only screen and (min-width: 48rem){
+.collageContainer__1K6RcOSoOrdthFcWHWZVTk {
+    display: block;
+}
+} */
